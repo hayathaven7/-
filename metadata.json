@@ -1,0 +1,7 @@
+{
+  "name": "হিসাব খাতা",
+  "description": "মাসুমের দেনা-পাওনা, ধার ও দৈনন্দিন আয়-ব্যয় ব্যবস্থাপনা অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
